@@ -8,3 +8,4 @@ eslint.config.cjs
 /temp/
 /playwright-report/
 /.old-unused-files/
+/fileStorage/
